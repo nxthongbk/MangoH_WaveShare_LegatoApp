@@ -7,8 +7,7 @@ Legato App to display Waveshare eink via framebuffer
 
 ### 2. Generate Image Data :
 Download Lcd2hex from link: https://www.waveshare.com/wiki/File:Image2Lcd.7z
-[Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-    <img align="left" src="img.jpg">
+<img align="left" src="https://user-images.githubusercontent.com/17214533/49282013-a1c8f500-f4c0-11e8-9dc5-7ce926a24903.png">
 
 ### 3. Update your Image Data and rebuild app
 
