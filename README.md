@@ -23,8 +23,6 @@ Download Lcd2hex from link: https://www.waveshare.com/wiki/File:Image2Lcd.7z
     
 * Click Save, to generate .c file. Copy the corresponding array into your project, and you can display picture by calling this array.
 
-<img align="left" src="https://user-images.githubusercontent.com/17214533/49282013-a1c8f500-f4c0-11e8-9dc5-7ce926a24903.png">
-
 ![marty-mcfly](https://user-images.githubusercontent.com/17214533/49282013-a1c8f500-f4c0-11e8-9dc5-7ce926a24903.png)
 
 ### 3. Update your Image Data and rebuild app
