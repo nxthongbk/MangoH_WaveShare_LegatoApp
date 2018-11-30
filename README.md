@@ -3,7 +3,8 @@ Legato App to display Waveshare eink via framebuffer
 
 
 ### 1. Clone Legato app:
-    
+
+Download legato app to your work space
 
 ### 2. Generate Image Data :
 Download Lcd2hex from link: https://www.waveshare.com/wiki/File:Image2Lcd.7z
@@ -29,7 +30,9 @@ Download Lcd2hex from link: https://www.waveshare.com/wiki/File:Image2Lcd.7z
 
     Get data generate from Lcd2hex tool and update to IMAGE_DATA 
 
-### 4. Install to app to MangoH Red and check Image on screen
+### 4. Install to app to MangoH Red and check image is displayed on screen
+![screen](https://user-images.githubusercontent.com/17214533/49282721-73e4b000-f4c2-11e8-81e8-67be78ce02b5.png)
+
 
     
 
