@@ -11,8 +11,7 @@ Legato App to display Waveshare eink via framebuffer
 
 ### 3. Update your Image Data and rebuild app
 
-    Run command: cd yocto
-    Run command: export LEGATO_BUILD=0
+    Get data generate from Lcd2hex tool and update to IMAGE_DATA 
 
 ### 4. Install to app to MangoH Red and check Image on screen
 
